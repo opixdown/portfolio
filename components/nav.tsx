@@ -3,6 +3,8 @@ import { ThemeToggle } from "./theme-toggle";
 
 const links = [
   { href: "/work", label: "Work" },
+  { href: "/books", label: "Books" },
+  { href: "/bookmarks", label: "Bookmarks" },
   { href: "/book", label: "Book a call" },
 ];
 
