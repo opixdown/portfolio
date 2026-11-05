@@ -1,0 +1,2512 @@
+{
+  "generatedAt": "2026-11-05T20:07:43.418Z",
+  "totals": {
+    "contributions": 843,
+    "commits": 357,
+    "pullRequests": 235,
+    "issues": 204,
+    "reviews": 32,
+    "lfortranMerged": 135,
+    "lfortranOpen": 26,
+    "lfortranIssues": 200
+  },
+  "days": [
+    {
+      "date": "2025-11-02",
+      "count": 1
+    },
+    {
+      "date": "2025-11-03",
+      "count": 0
+    },
+    {
+      "date": "2025-11-04",
+      "count": 1
+    },
+    {
+      "date": "2025-11-05",
+      "count": 1
+    },
+    {
+      "date": "2025-11-06",
+      "count": 1
+    },
+    {
+      "date": "2025-11-07",
+      "count": 0
+    },
+    {
+      "date": "2025-11-08",
+      "count": 0
+    },
+    {
+      "date": "2025-11-09",
+      "count": 0
+    },
+    {
+      "date": "2025-11-10",
+      "count": 0
+    },
+    {
+      "date": "2025-11-11",
+      "count": 0
+    },
+    {
+      "date": "2025-11-12",
+      "count": 0
+    },
+    {
+      "date": "2025-11-13",
+      "count": 0
+    },
+    {
+      "date": "2025-11-14",
+      "count": 4
+    },
+    {
+      "date": "2025-11-15",
+      "count": 0
+    },
+    {
+      "date": "2025-11-16",
+      "count": 0
+    },
+    {
+      "date": "2025-11-17",
+      "count": 0
+    },
+    {
+      "date": "2025-11-18",
+      "count": 0
+    },
+    {
+      "date": "2025-11-19",
+      "count": 0
+    },
+    {
+      "date": "2025-11-20",
+      "count": 0
+    },
+    {
+      "date": "2025-11-21",
+      "count": 0
+    },
+    {
+      "date": "2025-11-22",
+      "count": 0
+    },
+    {
+      "date": "2025-11-23",
+      "count": 0
+    },
+    {
+      "date": "2025-11-24",
+      "count": 0
+    },
+    {
+      "date": "2025-11-25",
+      "count": 0
+    },
+    {
+      "date": "2025-11-26",
+      "count": 0
+    },
+    {
+      "date": "2025-11-27",
+      "count": 1
+    },
+    {
+      "date": "2025-11-28",
+      "count": 1
+    },
+    {
+      "date": "2025-11-29",
+      "count": 0
+    },
+    {
+      "date": "2025-11-30",
+      "count": 1
+    },
+    {
+      "date": "2025-12-01",
+      "count": 1
+    },
+    {
+      "date": "2025-12-02",
+      "count": 1
+    },
+    {
+      "date": "2025-12-03",
+      "count": 1
+    },
+    {
+      "date": "2025-12-04",
+      "count": 1
+    },
+    {
+      "date": "2025-12-05",
+      "count": 1
+    },
+    {
+      "date": "2025-12-06",
+      "count": 1
+    },
+    {
+      "date": "2025-12-07",
+      "count": 0
+    },
+    {
+      "date": "2025-12-08",
+      "count": 4
+    },
+    {
+      "date": "2025-12-09",
+      "count": 2
+    },
+    {
+      "date": "2025-12-10",
+      "count": 1
+    },
+    {
+      "date": "2025-12-11",
+      "count": 0
+    },
+    {
+      "date": "2025-12-12",
+      "count": 1
+    },
+    {
+      "date": "2025-12-13",
+      "count": 1
+    },
+    {
+      "date": "2025-12-14",
+      "count": 3
+    },
+    {
+      "date": "2025-12-15",
+      "count": 0
+    },
+    {
+      "date": "2025-12-16",
+      "count": 3
+    },
+    {
+      "date": "2025-12-17",
+      "count": 1
+    },
+    {
+      "date": "2025-12-18",
+      "count": 0
+    },
+    {
+      "date": "2025-12-19",
+      "count": 8
+    },
+    {
+      "date": "2025-12-20",
+      "count": 0
+    },
+    {
+      "date": "2025-12-21",
+      "count": 1
+    },
+    {
+      "date": "2025-12-22",
+      "count": 0
+    },
+    {
+      "date": "2025-12-23",
+      "count": 4
+    },
+    {
+      "date": "2025-12-24",
+      "count": 1
+    },
+    {
+      "date": "2025-12-25",
+      "count": 4
+    },
+    {
+      "date": "2025-12-26",
+      "count": 4
+    },
+    {
+      "date": "2025-12-27",
+      "count": 2
+    },
+    {
+      "date": "2025-12-28",
+      "count": 0
+    },
+    {
+      "date": "2025-12-29",
+      "count": 5
+    },
+    {
+      "date": "2025-12-30",
+      "count": 1
+    },
+    {
+      "date": "2025-12-31",
+      "count": 1
+    },
+    {
+      "date": "2026-01-01",
+      "count": 0
+    },
+    {
+      "date": "2026-01-02",
+      "count": 0
+    },
+    {
+      "date": "2026-01-03",
+      "count": 2
+    },
+    {
+      "date": "2026-01-04",
+      "count": 0
+    },
+    {
+      "date": "2026-01-05",
+      "count": 0
+    },
+    {
+      "date": "2026-01-06",
+      "count": 5
+    },
+    {
+      "date": "2026-01-07",
+      "count": 3
+    },
+    {
+      "date": "2026-01-08",
+      "count": 5
+    },
+    {
+      "date": "2026-01-09",
+      "count": 0
+    },
+    {
+      "date": "2026-01-10",
+      "count": 8
+    },
+    {
+      "date": "2026-01-11",
+      "count": 3
+    },
+    {
+      "date": "2026-01-12",
+      "count": 0
+    },
+    {
+      "date": "2026-01-13",
+      "count": 0
+    },
+    {
+      "date": "2026-01-14",
+      "count": 5
+    },
+    {
+      "date": "2026-01-15",
+      "count": 0
+    },
+    {
+      "date": "2026-01-16",
+      "count": 3
+    },
+    {
+      "date": "2026-01-17",
+      "count": 0
+    },
+    {
+      "date": "2026-01-18",
+      "count": 0
+    },
+    {
+      "date": "2026-01-19",
+      "count": 0
+    },
+    {
+      "date": "2026-01-20",
+      "count": 3
+    },
+    {
+      "date": "2026-01-21",
+      "count": 0
+    },
+    {
+      "date": "2026-01-22",
+      "count": 1
+    },
+    {
+      "date": "2026-01-23",
+      "count": 2
+    },
+    {
+      "date": "2026-01-24",
+      "count": 6
+    },
+    {
+      "date": "2026-01-25",
+      "count": 1
+    },
+    {
+      "date": "2026-01-26",
+      "count": 2
+    },
+    {
+      "date": "2026-01-27",
+      "count": 0
+    },
+    {
+      "date": "2026-01-28",
+      "count": 2
+    },
+    {
+      "date": "2026-01-29",
+      "count": 2
+    },
+    {
+      "date": "2026-01-30",
+      "count": 0
+    },
+    {
+      "date": "2026-01-31",
+      "count": 3
+    },
+    {
+      "date": "2026-02-01",
+      "count": 0
+    },
+    {
+      "date": "2026-02-02",
+      "count": 2
+    },
+    {
+      "date": "2026-02-03",
+      "count": 0
+    },
+    {
+      "date": "2026-02-04",
+      "count": 0
+    },
+    {
+      "date": "2026-02-05",
+      "count": 3
+    },
+    {
+      "date": "2026-02-06",
+      "count": 0
+    },
+    {
+      "date": "2026-02-07",
+      "count": 0
+    },
+    {
+      "date": "2026-02-08",
+      "count": 0
+    },
+    {
+      "date": "2026-02-09",
+      "count": 0
+    },
+    {
+      "date": "2026-02-10",
+      "count": 1
+    },
+    {
+      "date": "2026-02-11",
+      "count": 3
+    },
+    {
+      "date": "2026-02-12",
+      "count": 2
+    },
+    {
+      "date": "2026-02-13",
+      "count": 2
+    },
+    {
+      "date": "2026-02-14",
+      "count": 1
+    },
+    {
+      "date": "2026-02-15",
+      "count": 4
+    },
+    {
+      "date": "2026-02-16",
+      "count": 3
+    },
+    {
+      "date": "2026-02-17",
+      "count": 0
+    },
+    {
+      "date": "2026-02-18",
+      "count": 0
+    },
+    {
+      "date": "2026-02-19",
+      "count": 0
+    },
+    {
+      "date": "2026-02-20",
+      "count": 0
+    },
+    {
+      "date": "2026-02-21",
+      "count": 0
+    },
+    {
+      "date": "2026-02-22",
+      "count": 0
+    },
+    {
+      "date": "2026-02-23",
+      "count": 0
+    },
+    {
+      "date": "2026-02-24",
+      "count": 0
+    },
+    {
+      "date": "2026-02-25",
+      "count": 4
+    },
+    {
+      "date": "2026-02-26",
+      "count": 0
+    },
+    {
+      "date": "2026-02-27",
+      "count": 1
+    },
+    {
+      "date": "2026-02-28",
+      "count": 1
+    },
+    {
+      "date": "2026-03-01",
+      "count": 1
+    },
+    {
+      "date": "2026-03-02",
+      "count": 4
+    },
+    {
+      "date": "2026-03-03",
+      "count": 0
+    },
+    {
+      "date": "2026-03-04",
+      "count": 0
+    },
+    {
+      "date": "2026-03-05",
+      "count": 1
+    },
+    {
+      "date": "2026-03-06",
+      "count": 3
+    },
+    {
+      "date": "2026-03-07",
+      "count": 1
+    },
+    {
+      "date": "2026-03-08",
+      "count": 0
+    },
+    {
+      "date": "2026-03-09",
+      "count": 1
+    },
+    {
+      "date": "2026-03-10",
+      "count": 1
+    },
+    {
+      "date": "2026-03-11",
+      "count": 1
+    },
+    {
+      "date": "2026-03-12",
+      "count": 5
+    },
+    {
+      "date": "2026-03-13",
+      "count": 2
+    },
+    {
+      "date": "2026-03-14",
+      "count": 0
+    },
+    {
+      "date": "2026-03-15",
+      "count": 2
+    },
+    {
+      "date": "2026-03-16",
+      "count": 2
+    },
+    {
+      "date": "2026-03-17",
+      "count": 5
+    },
+    {
+      "date": "2026-03-18",
+      "count": 4
+    },
+    {
+      "date": "2026-03-19",
+      "count": 0
+    },
+    {
+      "date": "2026-03-20",
+      "count": 0
+    },
+    {
+      "date": "2026-03-21",
+      "count": 5
+    },
+    {
+      "date": "2026-03-22",
+      "count": 0
+    },
+    {
+      "date": "2026-03-23",
+      "count": 1
+    },
+    {
+      "date": "2026-03-24",
+      "count": 0
+    },
+    {
+      "date": "2026-03-25",
+      "count": 0
+    },
+    {
+      "date": "2026-03-26",
+      "count": 0
+    },
+    {
+      "date": "2026-03-27",
+      "count": 0
+    },
+    {
+      "date": "2026-03-28",
+      "count": 1
+    },
+    {
+      "date": "2026-03-29",
+      "count": 0
+    },
+    {
+      "date": "2026-03-30",
+      "count": 2
+    },
+    {
+      "date": "2026-03-31",
+      "count": 2
+    },
+    {
+      "date": "2026-04-01",
+      "count": 0
+    },
+    {
+      "date": "2026-04-02",
+      "count": 0
+    },
+    {
+      "date": "2026-04-03",
+      "count": 0
+    },
+    {
+      "date": "2026-04-04",
+      "count": 0
+    },
+    {
+      "date": "2026-04-05",
+      "count": 0
+    },
+    {
+      "date": "2026-04-06",
+      "count": 1
+    },
+    {
+      "date": "2026-04-07",
+      "count": 0
+    },
+    {
+      "date": "2026-04-08",
+      "count": 1
+    },
+    {
+      "date": "2026-04-09",
+      "count": 4
+    },
+    {
+      "date": "2026-04-10",
+      "count": 0
+    },
+    {
+      "date": "2026-04-11",
+      "count": 0
+    },
+    {
+      "date": "2026-04-12",
+      "count": 0
+    },
+    {
+      "date": "2026-04-13",
+      "count": 1
+    },
+    {
+      "date": "2026-04-14",
+      "count": 0
+    },
+    {
+      "date": "2026-04-15",
+      "count": 1
+    },
+    {
+      "date": "2026-04-16",
+      "count": 0
+    },
+    {
+      "date": "2026-04-17",
+      "count": 39
+    },
+    {
+      "date": "2026-04-18",
+      "count": 3
+    },
+    {
+      "date": "2026-04-19",
+      "count": 2
+    },
+    {
+      "date": "2026-04-20",
+      "count": 0
+    },
+    {
+      "date": "2026-04-21",
+      "count": 0
+    },
+    {
+      "date": "2026-04-22",
+      "count": 0
+    },
+    {
+      "date": "2026-04-23",
+      "count": 0
+    },
+    {
+      "date": "2026-04-24",
+      "count": 0
+    },
+    {
+      "date": "2026-04-25",
+      "count": 0
+    },
+    {
+      "date": "2026-04-26",
+      "count": 0
+    },
+    {
+      "date": "2026-04-27",
+      "count": 0
+    },
+    {
+      "date": "2026-04-28",
+      "count": 0
+    },
+    {
+      "date": "2026-04-29",
+      "count": 0
+    },
+    {
+      "date": "2026-04-30",
+      "count": 0
+    },
+    {
+      "date": "2026-05-01",
+      "count": 0
+    },
+    {
+      "date": "2026-05-02",
+      "count": 0
+    },
+    {
+      "date": "2026-05-03",
+      "count": 9
+    },
+    {
+      "date": "2026-05-04",
+      "count": 7
+    },
+    {
+      "date": "2026-05-05",
+      "count": 2
+    },
+    {
+      "date": "2026-05-06",
+      "count": 0
+    },
+    {
+      "date": "2026-05-07",
+      "count": 5
+    },
+    {
+      "date": "2026-05-08",
+      "count": 5
+    },
+    {
+      "date": "2026-05-09",
+      "count": 2
+    },
+    {
+      "date": "2026-05-10",
+      "count": 1
+    },
+    {
+      "date": "2026-05-11",
+      "count": 3
+    },
+    {
+      "date": "2026-05-12",
+      "count": 4
+    },
+    {
+      "date": "2026-05-13",
+      "count": 0
+    },
+    {
+      "date": "2026-05-14",
+      "count": 5
+    },
+    {
+      "date": "2026-05-15",
+      "count": 2
+    },
+    {
+      "date": "2026-05-16",
+      "count": 10
+    },
+    {
+      "date": "2026-05-17",
+      "count": 0
+    },
+    {
+      "date": "2026-05-18",
+      "count": 1
+    },
+    {
+      "date": "2026-05-19",
+      "count": 10
+    },
+    {
+      "date": "2026-05-20",
+      "count": 9
+    },
+    {
+      "date": "2026-05-21",
+      "count": 13
+    },
+    {
+      "date": "2026-05-22",
+      "count": 4
+    },
+    {
+      "date": "2026-05-23",
+      "count": 0
+    },
+    {
+      "date": "2026-05-24",
+      "count": 0
+    },
+    {
+      "date": "2026-05-25",
+      "count": 6
+    },
+    {
+      "date": "2026-05-26",
+      "count": 6
+    },
+    {
+      "date": "2026-05-27",
+      "count": 6
+    },
+    {
+      "date": "2026-05-28",
+      "count": 6
+    },
+    {
+      "date": "2026-05-29",
+      "count": 2
+    },
+    {
+      "date": "2026-05-30",
+      "count": 5
+    },
+    {
+      "date": "2026-05-31",
+      "count": 3
+    },
+    {
+      "date": "2026-06-01",
+      "count": 5
+    },
+    {
+      "date": "2026-06-02",
+      "count": 7
+    },
+    {
+      "date": "2026-06-03",
+      "count": 5
+    },
+    {
+      "date": "2026-06-04",
+      "count": 12
+    },
+    {
+      "date": "2026-06-05",
+      "count": 6
+    },
+    {
+      "date": "2026-06-06",
+      "count": 7
+    },
+    {
+      "date": "2026-06-07",
+      "count": 3
+    },
+    {
+      "date": "2026-06-08",
+      "count": 6
+    },
+    {
+      "date": "2026-06-09",
+      "count": 4
+    },
+    {
+      "date": "2026-06-10",
+      "count": 5
+    },
+    {
+      "date": "2026-06-11",
+      "count": 14
+    },
+    {
+      "date": "2026-06-12",
+      "count": 16
+    },
+    {
+      "date": "2026-06-13",
+      "count": 7
+    },
+    {
+      "date": "2026-06-14",
+      "count": 4
+    },
+    {
+      "date": "2026-06-15",
+      "count": 9
+    },
+    {
+      "date": "2026-06-16",
+      "count": 11
+    },
+    {
+      "date": "2026-06-17",
+      "count": 9
+    },
+    {
+      "date": "2026-06-18",
+      "count": 11
+    },
+    {
+      "date": "2026-06-19",
+      "count": 6
+    },
+    {
+      "date": "2026-06-20",
+      "count": 11
+    },
+    {
+      "date": "2026-06-21",
+      "count": 6
+    },
+    {
+      "date": "2026-06-22",
+      "count": 13
+    },
+    {
+      "date": "2026-06-23",
+      "count": 8
+    },
+    {
+      "date": "2026-06-24",
+      "count": 10
+    },
+    {
+      "date": "2026-06-25",
+      "count": 17
+    },
+    {
+      "date": "2026-06-26",
+      "count": 11
+    },
+    {
+      "date": "2026-06-27",
+      "count": 5
+    },
+    {
+      "date": "2026-06-28",
+      "count": 5
+    },
+    {
+      "date": "2026-06-29",
+      "count": 7
+    },
+    {
+      "date": "2026-06-30",
+      "count": 4
+    },
+    {
+      "date": "2026-07-01",
+      "count": 9
+    },
+    {
+      "date": "2026-07-02",
+      "count": 10
+    },
+    {
+      "date": "2026-07-03",
+      "count": 4
+    },
+    {
+      "date": "2026-07-04",
+      "count": 17
+    },
+    {
+      "date": "2026-07-05",
+      "count": 4
+    },
+    {
+      "date": "2026-07-06",
+      "count": 3
+    },
+    {
+      "date": "2026-07-07",
+      "count": 10
+    },
+    {
+      "date": "2026-07-08",
+      "count": 10
+    },
+    {
+      "date": "2026-07-09",
+      "count": 2
+    },
+    {
+      "date": "2026-07-10",
+      "count": 8
+    },
+    {
+      "date": "2026-07-11",
+      "count": 4
+    },
+    {
+      "date": "2026-07-12",
+      "count": 4
+    },
+    {
+      "date": "2026-07-13",
+      "count": 4
+    },
+    {
+      "date": "2026-07-14",
+      "count": 15
+    },
+    {
+      "date": "2026-07-15",
+      "count": 13
+    },
+    {
+      "date": "2026-07-16",
+      "count": 11
+    },
+    {
+      "date": "2026-07-17",
+      "count": 1
+    },
+    {
+      "date": "2026-07-18",
+      "count": 13
+    },
+    {
+      "date": "2026-07-19",
+      "count": 1
+    },
+    {
+      "date": "2026-07-20",
+      "count": 1
+    },
+    {
+      "date": "2026-07-21",
+      "count": 1
+    },
+    {
+      "date": "2026-07-22",
+      "count": 1
+    },
+    {
+      "date": "2026-07-23",
+      "count": 2
+    },
+    {
+      "date": "2026-07-24",
+      "count": 2
+    },
+    {
+      "date": "2026-07-25",
+      "count": 1
+    },
+    {
+      "date": "2026-07-26",
+      "count": 1
+    },
+    {
+      "date": "2026-07-27",
+      "count": 11
+    },
+    {
+      "date": "2026-07-28",
+      "count": 6
+    },
+    {
+      "date": "2026-07-29",
+      "count": 1
+    },
+    {
+      "date": "2026-07-30",
+      "count": 3
+    },
+    {
+      "date": "2026-07-31",
+      "count": 1
+    },
+    {
+      "date": "2026-08-01",
+      "count": 5
+    },
+    {
+      "date": "2026-08-02",
+      "count": 0
+    },
+    {
+      "date": "2026-08-03",
+      "count": 3
+    },
+    {
+      "date": "2026-08-04",
+      "count": 3
+    },
+    {
+      "date": "2026-08-05",
+      "count": 0
+    },
+    {
+      "date": "2026-08-06",
+      "count": 0
+    },
+    {
+      "date": "2026-08-07",
+      "count": 0
+    },
+    {
+      "date": "2026-08-08",
+      "count": 0
+    },
+    {
+      "date": "2026-08-09",
+      "count": 3
+    },
+    {
+      "date": "2026-08-10",
+      "count": 7
+    },
+    {
+      "date": "2026-08-11",
+      "count": 0
+    },
+    {
+      "date": "2026-08-12",
+      "count": 0
+    },
+    {
+      "date": "2026-08-13",
+      "count": 0
+    },
+    {
+      "date": "2026-08-14",
+      "count": 1
+    },
+    {
+      "date": "2026-08-15",
+      "count": 0
+    },
+    {
+      "date": "2026-08-16",
+      "count": 0
+    },
+    {
+      "date": "2026-08-17",
+      "count": 0
+    },
+    {
+      "date": "2026-08-18",
+      "count": 0
+    },
+    {
+      "date": "2026-08-19",
+      "count": 2
+    },
+    {
+      "date": "2026-08-20",
+      "count": 1
+    },
+    {
+      "date": "2026-08-21",
+      "count": 0
+    },
+    {
+      "date": "2026-08-22",
+      "count": 2
+    },
+    {
+      "date": "2026-08-23",
+      "count": 0
+    },
+    {
+      "date": "2026-08-24",
+      "count": 0
+    },
+    {
+      "date": "2026-08-25",
+      "count": 0
+    },
+    {
+      "date": "2026-08-26",
+      "count": 4
+    },
+    {
+      "date": "2026-08-27",
+      "count": 0
+    },
+    {
+      "date": "2026-08-28",
+      "count": 0
+    },
+    {
+      "date": "2026-08-29",
+      "count": 0
+    },
+    {
+      "date": "2026-08-30",
+      "count": 0
+    },
+    {
+      "date": "2026-08-31",
+      "count": 0
+    },
+    {
+      "date": "2026-09-01",
+      "count": 0
+    },
+    {
+      "date": "2026-09-02",
+      "count": 0
+    },
+    {
+      "date": "2026-09-03",
+      "count": 0
+    },
+    {
+      "date": "2026-09-04",
+      "count": 0
+    },
+    {
+      "date": "2026-09-05",
+      "count": 3
+    },
+    {
+      "date": "2026-09-06",
+      "count": 0
+    },
+    {
+      "date": "2026-09-07",
+      "count": 0
+    },
+    {
+      "date": "2026-09-08",
+      "count": 0
+    },
+    {
+      "date": "2026-09-09",
+      "count": 0
+    },
+    {
+      "date": "2026-09-10",
+      "count": 0
+    },
+    {
+      "date": "2026-09-11",
+      "count": 0
+    },
+    {
+      "date": "2026-09-12",
+      "count": 1
+    },
+    {
+      "date": "2026-09-13",
+      "count": 1
+    },
+    {
+      "date": "2026-09-14",
+      "count": 0
+    },
+    {
+      "date": "2026-09-15",
+      "count": 0
+    },
+    {
+      "date": "2026-09-16",
+      "count": 0
+    },
+    {
+      "date": "2026-09-17",
+      "count": 0
+    },
+    {
+      "date": "2026-09-18",
+      "count": 0
+    },
+    {
+      "date": "2026-09-19",
+      "count": 0
+    },
+    {
+      "date": "2026-09-20",
+      "count": 0
+    },
+    {
+      "date": "2026-09-21",
+      "count": 0
+    },
+    {
+      "date": "2026-09-22",
+      "count": 0
+    },
+    {
+      "date": "2026-09-23",
+      "count": 0
+    },
+    {
+      "date": "2026-09-24",
+      "count": 0
+    },
+    {
+      "date": "2026-09-25",
+      "count": 0
+    },
+    {
+      "date": "2026-09-26",
+      "count": 6
+    },
+    {
+      "date": "2026-09-27",
+      "count": 0
+    },
+    {
+      "date": "2026-09-28",
+      "count": 0
+    },
+    {
+      "date": "2026-09-29",
+      "count": 0
+    },
+    {
+      "date": "2026-09-30",
+      "count": 0
+    },
+    {
+      "date": "2026-10-01",
+      "count": 0
+    },
+    {
+      "date": "2026-10-02",
+      "count": 1
+    },
+    {
+      "date": "2026-10-03",
+      "count": 0
+    },
+    {
+      "date": "2026-10-04",
+      "count": 0
+    },
+    {
+      "date": "2026-10-05",
+      "count": 0
+    },
+    {
+      "date": "2026-10-06",
+      "count": 0
+    },
+    {
+      "date": "2026-10-07",
+      "count": 0
+    },
+    {
+      "date": "2026-10-08",
+      "count": 0
+    },
+    {
+      "date": "2026-10-09",
+      "count": 0
+    },
+    {
+      "date": "2026-10-10",
+      "count": 0
+    },
+    {
+      "date": "2026-10-11",
+      "count": 0
+    },
+    {
+      "date": "2026-10-12",
+      "count": 0
+    },
+    {
+      "date": "2026-10-13",
+      "count": 0
+    },
+    {
+      "date": "2026-10-14",
+      "count": 0
+    },
+    {
+      "date": "2026-10-15",
+      "count": 0
+    },
+    {
+      "date": "2026-10-16",
+      "count": 0
+    },
+    {
+      "date": "2026-10-17",
+      "count": 0
+    },
+    {
+      "date": "2026-10-18",
+      "count": 0
+    },
+    {
+      "date": "2026-10-19",
+      "count": 0
+    },
+    {
+      "date": "2026-10-20",
+      "count": 0
+    },
+    {
+      "date": "2026-10-21",
+      "count": 0
+    },
+    {
+      "date": "2026-10-22",
+      "count": 0
+    },
+    {
+      "date": "2026-10-23",
+      "count": 0
+    },
+    {
+      "date": "2026-10-24",
+      "count": 0
+    },
+    {
+      "date": "2026-10-25",
+      "count": 3
+    },
+    {
+      "date": "2026-10-26",
+      "count": 4
+    },
+    {
+      "date": "2026-10-27",
+      "count": 0
+    },
+    {
+      "date": "2026-10-28",
+      "count": 0
+    },
+    {
+      "date": "2026-10-29",
+      "count": 0
+    },
+    {
+      "date": "2026-10-30",
+      "count": 0
+    },
+    {
+      "date": "2026-10-31",
+      "count": 0
+    },
+    {
+      "date": "2026-11-01",
+      "count": 0
+    },
+    {
+      "date": "2026-11-02",
+      "count": 6
+    },
+    {
+      "date": "2026-11-03",
+      "count": 0
+    },
+    {
+      "date": "2026-11-04",
+      "count": 0
+    },
+    {
+      "date": "2026-11-05",
+      "count": 0
+    },
+    {
+      "date": "2026-11-06",
+      "count": 0
+    }
+  ],
+  "feed": [
+    {
+      "id": "https://github.com/opixdown/packetworld/commit/f75740e4fce04300d2c93795a4d14bb73fc1fba0",
+      "kind": "commit",
+      "title": "Add visit analytics and a daily X posting queue",
+      "url": "https://github.com/opixdown/packetworld/commit/f75740e4fce04300d2c93795a4d14bb73fc1fba0",
+      "date": "2026-11-02T08:52:22Z",
+      "repo": "opixdown/packetworld",
+      "plus": 395,
+      "minus": 6
+    },
+    {
+      "id": "https://github.com/opixdown/packetworld/commit/4d50e0ace059f71d4e2b4bbce86a2ca991b646a2",
+      "kind": "commit",
+      "title": "Rewrite the README and add link previews",
+      "url": "https://github.com/opixdown/packetworld/commit/4d50e0ace059f71d4e2b4bbce86a2ca991b646a2",
+      "date": "2026-11-02T08:42:26Z",
+      "repo": "opixdown/packetworld",
+      "plus": 83,
+      "minus": 65
+    },
+    {
+      "id": "https://github.com/opixdown/packetworld/commit/4136a5ed74cad71b84b624fbeb11548a22db5675",
+      "kind": "commit",
+      "title": "Open on the light theme by default",
+      "url": "https://github.com/opixdown/packetworld/commit/4136a5ed74cad71b84b624fbeb11548a22db5675",
+      "date": "2026-11-02T08:32:36Z",
+      "repo": "opixdown/packetworld",
+      "plus": 28,
+      "minus": 19
+    },
+    {
+      "id": "https://github.com/opixdown/packetworld/commit/f95e7eeea50e67ad696971ac52ae1fce3c33b2aa",
+      "kind": "commit",
+      "title": "Initial release of PacketWorld",
+      "url": "https://github.com/opixdown/packetworld/commit/f95e7eeea50e67ad696971ac52ae1fce3c33b2aa",
+      "date": "2026-11-02T08:27:46Z",
+      "repo": "opixdown/packetworld",
+      "plus": 24815,
+      "minus": 0
+    },
+    {
+      "id": "https://github.com/opixdown/wipe/commit/410ceece6e5eec70402fb503a03c2c2f1b7480b2",
+      "kind": "commit",
+      "title": "Show the video right under the install command",
+      "url": "https://github.com/opixdown/wipe/commit/410ceece6e5eec70402fb503a03c2c2f1b7480b2",
+      "date": "2026-10-25T19:50:59Z",
+      "repo": "opixdown/wipe",
+      "plus": 5,
+      "minus": 13
+    },
+    {
+      "id": "https://github.com/opixdown/wipe/commit/af03635fe090e9ae537c10c749666e523339d915",
+      "kind": "commit",
+      "title": "Add the promo video and a footer with contact and GitHub links",
+      "url": "https://github.com/opixdown/wipe/commit/af03635fe090e9ae537c10c749666e523339d915",
+      "date": "2026-10-25T19:48:00Z",
+      "repo": "opixdown/wipe",
+      "plus": 45,
+      "minus": 2
+    },
+    {
+      "id": "https://github.com/opixdown/wipe/commit/c6992a35025a96f23af6d711de170517b3cec747",
+      "kind": "commit",
+      "title": "Bring back the shorter README",
+      "url": "https://github.com/opixdown/wipe/commit/c6992a35025a96f23af6d711de170517b3cec747",
+      "date": "2026-10-25T18:44:34Z",
+      "repo": "opixdown/wipe",
+      "plus": 18,
+      "minus": 81
+    },
+    {
+      "id": "https://github.com/opixdown/wipe/commit/d64b2328571410c0045bf2b0dfb0650d8586099d",
+      "kind": "commit",
+      "title": "Organize into macos/, windows/, site/ and scripts/; add CI and a full…",
+      "url": "https://github.com/opixdown/wipe/commit/d64b2328571410c0045bf2b0dfb0650d8586099d",
+      "date": "2026-10-25T18:42:11Z",
+      "repo": "opixdown/wipe",
+      "plus": 147,
+      "minus": 23
+    },
+    {
+      "id": "https://github.com/opixdown/wipe/commit/90d2f77151afafbb3c01f2f346333051f0960d69",
+      "kind": "commit",
+      "title": "Link the repo from the site",
+      "url": "https://github.com/opixdown/wipe/commit/90d2f77151afafbb3c01f2f346333051f0960d69",
+      "date": "2026-10-25T18:08:30Z",
+      "repo": "opixdown/wipe",
+      "plus": 2,
+      "minus": 0
+    },
+    {
+      "id": "https://github.com/opixdown/wipe/commit/bb95fb8b9b0de8f20dba756a37af572715cb748d",
+      "kind": "commit",
+      "title": "wipe: clean your screen and keyboard without shutting down",
+      "url": "https://github.com/opixdown/wipe/commit/bb95fb8b9b0de8f20dba756a37af572715cb748d",
+      "date": "2026-10-25T18:07:54Z",
+      "repo": "opixdown/wipe",
+      "plus": 2580,
+      "minus": 0
+    },
+    {
+      "id": "https://github.com/lfortran/lfortran/pull/13542",
+      "kind": "open",
+      "title": "fix: real(16) selected_real_kind, elemental math, READ, mixed-kind cast and initializers",
+      "url": "https://github.com/lfortran/lfortran/pull/13542",
+      "date": "2026-09-25T20:18:38Z",
+      "repo": "lfortran/lfortran",
+      "number": 13542,
+      "plus": 1036,
+      "minus": 53
+    },
+    {
+      "id": "https://github.com/lfortran/lfortran/issues/13541",
+      "kind": "issue",
+      "title": "real(16): derived type with a default-initialized real(16) component segfaults in LLVM codegen",
+      "url": "https://github.com/lfortran/lfortran/issues/13541",
+      "date": "2026-09-25T19:22:08Z",
+      "repo": "lfortran/lfortran",
+      "number": 13541
+    },
+    {
+      "id": "https://github.com/lfortran/lfortran/issues/13540",
+      "kind": "issue",
+      "title": "real(16): comparing with a real(8) constant segfaults the compiler in real_constant_get_r16_bytes",
+      "url": "https://github.com/lfortran/lfortran/issues/13540",
+      "date": "2026-09-25T19:22:06Z",
+      "repo": "lfortran/lfortran",
+      "number": 13540
+    },
+    {
+      "id": "https://github.com/lfortran/lfortran/issues/13539",
+      "kind": "issue",
+      "title": "real(16): list-directed internal READ fails to link (undefined _lfortran_string_read_f128); READ from stdin yields 0",
+      "url": "https://github.com/lfortran/lfortran/issues/13539",
+      "date": "2026-09-25T19:22:05Z",
+      "repo": "lfortran/lfortran",
+      "number": 13539
+    },
+    {
+      "id": "https://github.com/lfortran/lfortran/issues/13538",
+      "kind": "issue",
+      "title": "real(16): sqrt/exp/sin on a variable return wrong values (only abs is correct)",
+      "url": "https://github.com/lfortran/lfortran/issues/13538",
+      "date": "2026-09-25T19:22:03Z",
+      "repo": "lfortran/lfortran",
+      "number": 13538
+    },
+    {
+      "id": "https://github.com/lfortran/lfortran/issues/13537",
+      "kind": "issue",
+      "title": "selected_real_kind(30) returns -1 even though real(16) is supported",
+      "url": "https://github.com/lfortran/lfortran/issues/13537",
+      "date": "2026-09-25T19:22:00Z",
+      "repo": "lfortran/lfortran",
+      "number": 13537
+    },
+    {
+      "id": "https://github.com/lfortran/lfortran/issues/12795",
+      "kind": "issue",
+      "title": "write(formatted) DTIO is skipped by print, broken for inherited types, and drops the DT suffix/vlist",
+      "url": "https://github.com/lfortran/lfortran/issues/12795",
+      "date": "2026-09-13T08:15:12Z",
+      "repo": "lfortran/lfortran",
+      "number": 12795
+    },
+    {
+      "id": "https://github.com/lfortran/lfortran/issues/12777",
+      "kind": "issue",
+      "title": "Incorrect values when accessing array component of a parameterized derived-type constant",
+      "url": "https://github.com/lfortran/lfortran/issues/12777",
+      "date": "2026-09-12T15:22:55Z",
+      "repo": "lfortran/lfortran",
+      "number": 12777
+    },
+    {
+      "id": "https://github.com/lfortran/lfortran/pull/12545",
+      "kind": "merged",
+      "title": "fix: wrong values from DATA statement with array sections",
+      "url": "https://github.com/lfortran/lfortran/pull/12545",
+      "date": "2026-08-27T17:02:16Z",
+      "repo": "lfortran/lfortran",
+      "number": 12545,
+      "plus": 149,
+      "minus": 6
+    },
+    {
+      "id": "https://github.com/lfortran/lfortran/pull/12564",
+      "kind": "open",
+      "title": "refactor: extract named condition from dimensions assert for readability",
+      "url": "https://github.com/lfortran/lfortran/pull/12564",
+      "date": "2026-08-21T19:25:41Z",
+      "repo": "lfortran/lfortran",
+      "number": 12564,
+      "plus": 7,
+      "minus": 4
+    },
+    {
+      "id": "https://github.com/lfortran/lfortran/pull/12563",
+      "kind": "open",
+      "title": "Add runtime bounds checking for array sections",
+      "url": "https://github.com/lfortran/lfortran/pull/12563",
+      "date": "2026-08-21T18:40:00Z",
+      "repo": "lfortran/lfortran",
+      "number": 12563,
+      "plus": 210,
+      "minus": 10
+    },
+    {
+      "id": "https://github.com/lfortran/lfortran/pull/12438",
+      "kind": "merged",
+      "title": "fix: make namelist output follow the standard",
+      "url": "https://github.com/lfortran/lfortran/pull/12438",
+      "date": "2026-08-20T16:12:06Z",
+      "repo": "lfortran/lfortran",
+      "number": 12438,
+      "plus": 49,
+      "minus": 3
+    },
+    {
+      "id": "https://github.com/lfortran/lfortran/pull/12544",
+      "kind": "open",
+      "title": "fix: ICE on EQUIVALENCE between two COMMON block variables",
+      "url": "https://github.com/lfortran/lfortran/pull/12544",
+      "date": "2026-08-19T15:04:29Z",
+      "repo": "lfortran/lfortran",
+      "number": 12544,
+      "plus": 47,
+      "minus": 6
+    },
+    {
+      "id": "https://github.com/lfortran/lfortran/pull/12437",
+      "kind": "merged",
+      "title": "fix: support scalar MASK in reduction intrinsics",
+      "url": "https://github.com/lfortran/lfortran/pull/12437",
+      "date": "2026-08-12T03:11:45Z",
+      "repo": "lfortran/lfortran",
+      "number": 12437,
+      "plus": 54,
+      "minus": 6
+    },
+    {
+      "id": "https://github.com/lfortran/lfortran/pull/12469",
+      "kind": "merged",
+      "title": "fix: String length cannot be negative.",
+      "url": "https://github.com/lfortran/lfortran/pull/12469",
+      "date": "2026-08-12T03:11:34Z",
+      "repo": "lfortran/lfortran",
+      "number": 12469,
+      "plus": 29,
+      "minus": 1
+    },
+    {
+      "id": "https://github.com/lfortran/lfortran/pull/12468",
+      "kind": "open",
+      "title": "fix: statement name is inconsistent",
+      "url": "https://github.com/lfortran/lfortran/pull/12468",
+      "date": "2026-08-10T14:19:28Z",
+      "repo": "lfortran/lfortran",
+      "number": 12468,
+      "plus": 23,
+      "minus": 7
+    },
+    {
+      "id": "https://github.com/lfortran/lfortran/pull/12409",
+      "kind": "merged",
+      "title": "fix: transfer full kind-width bytes for A editing of integers",
+      "url": "https://github.com/lfortran/lfortran/pull/12409",
+      "date": "2026-08-09T06:01:22Z",
+      "repo": "lfortran/lfortran",
+      "number": 12409,
+      "plus": 169,
+      "minus": 17
+    },
+    {
+      "id": "https://github.com/lfortran/lfortran/pull/12397",
+      "kind": "merged",
+      "title": "fix: zero pad Bw.m formatted output to m digits when width is zero",
+      "url": "https://github.com/lfortran/lfortran/pull/12397",
+      "date": "2026-08-02T14:02:30Z",
+      "repo": "lfortran/lfortran",
+      "number": 12397,
+      "plus": 36,
+      "minus": 0
+    },
+    {
+      "id": "https://github.com/opixdown/statspro/commit/a3ac22262b7fab0ccf648a61582cff567c4163d7",
+      "kind": "commit",
+      "title": "Remove font information from README",
+      "url": "https://github.com/opixdown/statspro/commit/a3ac22262b7fab0ccf648a61582cff567c4163d7",
+      "date": "2026-07-31T16:42:55Z",
+      "repo": "opixdown/statspro",
+      "plus": 1,
+      "minus": 1
+    },
+    {
+      "id": "https://github.com/opixdown/statspro/commit/2b0fff8286b137861ba9432cb8b7a80d468f46e0",
+      "kind": "commit",
+      "title": "Clarify README text by removing punctuation",
+      "url": "https://github.com/opixdown/statspro/commit/2b0fff8286b137861ba9432cb8b7a80d468f46e0",
+      "date": "2026-07-29T17:23:01Z",
+      "repo": "opixdown/statspro",
+      "plus": 1,
+      "minus": 1
+    },
+    {
+      "id": "https://github.com/opixdown/statspro/commit/d061f4dfa780da23d88e40415ddfe9a578e5c502",
+      "kind": "commit",
+      "title": "Update README.md",
+      "url": "https://github.com/opixdown/statspro/commit/d061f4dfa780da23d88e40415ddfe9a578e5c502",
+      "date": "2026-07-28T17:44:13Z",
+      "repo": "opixdown/statspro",
+      "plus": 1,
+      "minus": 1
+    },
+    {
+      "id": "https://github.com/lfortran/lfortran/pull/12242",
+      "kind": "merged",
+      "title": "fix: ICE for trim with character(kind=4)",
+      "url": "https://github.com/lfortran/lfortran/pull/12242",
+      "date": "2026-07-28T07:11:34Z",
+      "repo": "lfortran/lfortran",
+      "number": 12242,
+      "plus": 19,
+      "minus": 5
+    },
+    {
+      "id": "https://github.com/lfortran/lfortran/pull/12229",
+      "kind": "merged",
+      "title": "fix: ICE for elemental function applied to shape of assumed-rank argument",
+      "url": "https://github.com/lfortran/lfortran/pull/12229",
+      "date": "2026-07-28T05:58:50Z",
+      "repo": "lfortran/lfortran",
+      "number": 12229,
+      "plus": 6,
+      "minus": 3
+    },
+    {
+      "id": "https://github.com/lfortran/lfortran/pull/12364",
+      "kind": "merged",
+      "title": "fix: DATA statement straight from f2023 standard with nested implied DO fails",
+      "url": "https://github.com/lfortran/lfortran/pull/12364",
+      "date": "2026-07-28T05:58:15Z",
+      "repo": "lfortran/lfortran",
+      "number": 12364,
+      "plus": 22,
+      "minus": 0
+    },
+    {
+      "id": "https://github.com/lfortran/lfortran/pull/12365",
+      "kind": "merged",
+      "title": "OUT_OF_RANGE intrinsic produces incorrect results with KIND=INT8",
+      "url": "https://github.com/lfortran/lfortran/pull/12365",
+      "date": "2026-07-28T05:58:00Z",
+      "repo": "lfortran/lfortran",
+      "number": 12365,
+      "plus": 61,
+      "minus": 20
+    },
+    {
+      "id": "https://github.com/lfortran/lfortran/pull/12367",
+      "kind": "open",
+      "title": "fix: real128 runtime arithmetic, log10 routing, and string read",
+      "url": "https://github.com/lfortran/lfortran/pull/12367",
+      "date": "2026-07-27T18:33:22Z",
+      "repo": "lfortran/lfortran",
+      "number": 12367,
+      "plus": 392,
+      "minus": 84
+    },
+    {
+      "id": "https://github.com/lfortran/lfortran/pull/12226",
+      "kind": "merged",
+      "title": "fix: internal read from character arrays loses record boundaries",
+      "url": "https://github.com/lfortran/lfortran/pull/12226",
+      "date": "2026-07-26T15:51:18Z",
+      "repo": "lfortran/lfortran",
+      "number": 12226,
+      "plus": 26,
+      "minus": 2
+    },
+    {
+      "id": "https://github.com/lfortran/lfortran/pull/11939",
+      "kind": "merged",
+      "title": "fix: ICE for empty typed character array constructor parameter",
+      "url": "https://github.com/lfortran/lfortran/pull/11939",
+      "date": "2026-07-25T16:49:16Z",
+      "repo": "lfortran/lfortran",
+      "number": 11939,
+      "plus": 101,
+      "minus": 8
+    },
+    {
+      "id": "https://github.com/opixdown/statspro/commit/9901c43341bf2096f45965adc4f1ef9629c0628e",
+      "kind": "commit",
+      "title": "Update README.md",
+      "url": "https://github.com/opixdown/statspro/commit/9901c43341bf2096f45965adc4f1ef9629c0628e",
+      "date": "2026-07-25T16:09:08Z",
+      "repo": "opixdown/statspro",
+      "plus": 1,
+      "minus": 1
+    },
+    {
+      "id": "https://github.com/opixdown/statspro/commit/7b2f7c3fbbc8c81f91aca9170761e72d574ca672",
+      "kind": "commit",
+      "title": "Update README.md",
+      "url": "https://github.com/opixdown/statspro/commit/7b2f7c3fbbc8c81f91aca9170761e72d574ca672",
+      "date": "2026-07-22T15:43:42Z",
+      "repo": "opixdown/statspro",
+      "plus": 1,
+      "minus": 1
+    },
+    {
+      "id": "https://github.com/opixdown/statspro/commit/e1badc0f39d30144c618ab7ad1afd861bc3f4cc7",
+      "kind": "commit",
+      "title": "Fix typo in README for headless game simulator",
+      "url": "https://github.com/opixdown/statspro/commit/e1badc0f39d30144c618ab7ad1afd861bc3f4cc7",
+      "date": "2026-07-21T17:24:34Z",
+      "repo": "opixdown/statspro",
+      "plus": 1,
+      "minus": 1
+    },
+    {
+      "id": "https://github.com/lfortran/lfortran/pull/12240",
+      "kind": "merged",
+      "title": "fix: ICE for len_trim with kind=8 result",
+      "url": "https://github.com/lfortran/lfortran/pull/12240",
+      "date": "2026-07-21T05:48:40Z",
+      "repo": "lfortran/lfortran",
+      "number": 12240,
+      "plus": 12,
+      "minus": 5
+    },
+    {
+      "id": "https://github.com/opixdown/statspro/commit/c5e221874fa5b8658b76f4b36e46b0e0ccbf3fed",
+      "kind": "commit",
+      "title": "Remove Settings section from README",
+      "url": "https://github.com/opixdown/statspro/commit/c5e221874fa5b8658b76f4b36e46b0e0ccbf3fed",
+      "date": "2026-07-20T11:15:16Z",
+      "repo": "opixdown/statspro",
+      "plus": 0,
+      "minus": 6
+    },
+    {
+      "id": "https://github.com/lfortran/lfortran/issues/12291",
+      "kind": "issue",
+      "title": "Segfault when using real(16) in a procedure imported from a module",
+      "url": "https://github.com/lfortran/lfortran/issues/12291",
+      "date": "2026-07-19T15:34:15Z",
+      "repo": "lfortran/lfortran",
+      "number": 12291
+    },
+    {
+      "id": "https://github.com/opixdown/statspro/commit/4cd91702073b2150cc5ea05424c074fc6f9a9203",
+      "kind": "commit",
+      "title": "Strip the Bill sheet's second background blue in the runtime slicer",
+      "url": "https://github.com/opixdown/statspro/commit/4cd91702073b2150cc5ea05424c074fc6f9a9203",
+      "date": "2026-07-18T11:40:47Z",
+      "repo": "opixdown/statspro",
+      "plus": 10,
+      "minus": 3
+    },
+    {
+      "id": "https://github.com/lfortran/lfortran/pull/12231",
+      "kind": "merged",
+      "title": "fix: ICE when allocating an array using rank of an assumed-rank argument",
+      "url": "https://github.com/lfortran/lfortran/pull/12231",
+      "date": "2026-07-18T08:01:15Z",
+      "repo": "lfortran/lfortran",
+      "number": 12231,
+      "plus": 29,
+      "minus": 1
+    },
+    {
+      "id": "https://github.com/lfortran/lfortran/issues/12253",
+      "kind": "issue",
+      "title": "ICE for reshape of allocatable polymorphic array passed to class dummy",
+      "url": "https://github.com/lfortran/lfortran/issues/12253",
+      "date": "2026-07-17T17:31:46Z",
+      "repo": "lfortran/lfortran",
+      "number": 12253
+    },
+    {
+      "id": "https://github.com/lfortran/lfortran/issues/12245",
+      "kind": "issue",
+      "title": "ICE for self-equivalence of a COMMON block variable",
+      "url": "https://github.com/lfortran/lfortran/issues/12245",
+      "date": "2026-07-16T11:43:55Z",
+      "repo": "lfortran/lfortran",
+      "number": 12245
+    },
+    {
+      "id": "https://github.com/lfortran/lfortran/pull/12244",
+      "kind": "open",
+      "title": "fix: ASR verify failure for transpose of derived type array",
+      "url": "https://github.com/lfortran/lfortran/pull/12244",
+      "date": "2026-07-16T11:32:36Z",
+      "repo": "lfortran/lfortran",
+      "number": 12244,
+      "plus": 35,
+      "minus": 2
+    },
+    {
+      "id": "https://github.com/lfortran/lfortran/issues/12243",
+      "kind": "issue",
+      "title": "ASR verify failure for transpose of derived type array",
+      "url": "https://github.com/lfortran/lfortran/issues/12243",
+      "date": "2026-07-16T11:32:19Z",
+      "repo": "lfortran/lfortran",
+      "number": 12243
+    },
+    {
+      "id": "https://github.com/lfortran/lfortran/issues/12241",
+      "kind": "issue",
+      "title": "ICE for trim with character(kind=4)",
+      "url": "https://github.com/lfortran/lfortran/issues/12241",
+      "date": "2026-07-16T11:14:05Z",
+      "repo": "lfortran/lfortran",
+      "number": 12241
+    },
+    {
+      "id": "https://github.com/lfortran/lfortran/issues/12239",
+      "kind": "issue",
+      "title": "ICE for len_trim with kind=8 result",
+      "url": "https://github.com/lfortran/lfortran/issues/12239",
+      "date": "2026-07-16T10:54:20Z",
+      "repo": "lfortran/lfortran",
+      "number": 12239
+    },
+    {
+      "id": "https://github.com/lfortran/lfortran/issues/12230",
+      "kind": "issue",
+      "title": "ICE when allocating an array using rank of an assumed-rank argument",
+      "url": "https://github.com/lfortran/lfortran/issues/12230",
+      "date": "2026-07-15T11:09:23Z",
+      "repo": "lfortran/lfortran",
+      "number": 12230
+    },
+    {
+      "id": "https://github.com/lfortran/lfortran/issues/12228",
+      "kind": "issue",
+      "title": "ICE for elemental function applied to shape of assumed-rank argument",
+      "url": "https://github.com/lfortran/lfortran/issues/12228",
+      "date": "2026-07-15T10:38:16Z",
+      "repo": "lfortran/lfortran",
+      "number": 12228
+    },
+    {
+      "id": "https://github.com/lfortran/lfortran/pull/12215",
+      "kind": "merged",
+      "title": "fix: ICE for list directed internal read from allocatable character array",
+      "url": "https://github.com/lfortran/lfortran/pull/12215",
+      "date": "2026-07-15T09:33:27Z",
+      "repo": "lfortran/lfortran",
+      "number": 12215,
+      "plus": 35,
+      "minus": 2
+    },
+    {
+      "id": "https://github.com/lfortran/lfortran/pull/12213",
+      "kind": "merged",
+      "title": "fix: LLVM type mismatch for non default integer kind used as WRITE unit",
+      "url": "https://github.com/lfortran/lfortran/pull/12213",
+      "date": "2026-07-14T18:07:31Z",
+      "repo": "lfortran/lfortran",
+      "number": 12213,
+      "plus": 13,
+      "minus": 10
+    },
+    {
+      "id": "https://github.com/lfortran/lfortran/pull/12211",
+      "kind": "merged",
+      "title": "fix: ICE for norm2 with a scalar argument",
+      "url": "https://github.com/lfortran/lfortran/pull/12211",
+      "date": "2026-07-14T18:07:19Z",
+      "repo": "lfortran/lfortran",
+      "number": 12211,
+      "plus": 51,
+      "minus": 2
+    },
+    {
+      "id": "https://github.com/lfortran/lfortran/pull/12196",
+      "kind": "open",
+      "title": "fix: namelist derived array read ordering",
+      "url": "https://github.com/lfortran/lfortran/pull/12196",
+      "date": "2026-07-13T11:27:47Z",
+      "repo": "lfortran/lfortran",
+      "number": 12196,
+      "plus": 92,
+      "minus": 26
+    },
+    {
+      "id": "https://github.com/lfortran/lfortran/pull/12195",
+      "kind": "open",
+      "title": "test: add namelist derived array codegen error tests",
+      "url": "https://github.com/lfortran/lfortran/pull/12195",
+      "date": "2026-07-13T10:47:40Z",
+      "repo": "lfortran/lfortran",
+      "number": 12195,
+      "plus": 73,
+      "minus": 1
+    },
+    {
+      "id": "https://github.com/lfortran/lfortran/pull/12007",
+      "kind": "merged",
+      "title": "feat: add support of namelist arrays of derived types",
+      "url": "https://github.com/lfortran/lfortran/pull/12007",
+      "date": "2026-07-12T21:17:08Z",
+      "repo": "lfortran/lfortran",
+      "number": 12007,
+      "plus": 132,
+      "minus": 21
+    },
+    {
+      "id": "https://github.com/lfortran/lfortran/pull/12075",
+      "kind": "merged",
+      "title": "fix: ICE for passing scalar character literal to rank-2 assumed-size character dummy",
+      "url": "https://github.com/lfortran/lfortran/pull/12075",
+      "date": "2026-07-11T09:31:23Z",
+      "repo": "lfortran/lfortran",
+      "number": 12075,
+      "plus": 53,
+      "minus": 3
+    },
+    {
+      "id": "https://github.com/lfortran/lfortran/pull/12137",
+      "kind": "merged",
+      "title": "fix: ICE for array parameter initialized with implied-do using achar and iachar",
+      "url": "https://github.com/lfortran/lfortran/pull/12137",
+      "date": "2026-07-11T09:29:09Z",
+      "repo": "lfortran/lfortran",
+      "number": 12137,
+      "plus": 12,
+      "minus": 0
+    },
+    {
+      "id": "https://github.com/lfortran/lfortran/pull/12170",
+      "kind": "merged",
+      "title": "fix: Missing semantic error for BOZ literal used as associate target",
+      "url": "https://github.com/lfortran/lfortran/pull/12170",
+      "date": "2026-07-11T09:28:50Z",
+      "repo": "lfortran/lfortran",
+      "number": 12170,
+      "plus": 20,
+      "minus": 2
+    },
+    {
+      "id": "https://github.com/lfortran/lfortran/pull/12172",
+      "kind": "open",
+      "title": "ICE for findloc with mismatched character kinds and dim argument",
+      "url": "https://github.com/lfortran/lfortran/pull/12172",
+      "date": "2026-07-10T12:34:14Z",
+      "repo": "lfortran/lfortran",
+      "number": 12172,
+      "plus": 18,
+      "minus": 2
+    },
+    {
+      "id": "https://github.com/lfortran/lfortran/pull/12125",
+      "kind": "merged",
+      "title": "fix : format slash edit descriptor with repeat count fails at runtime",
+      "url": "https://github.com/lfortran/lfortran/pull/12125",
+      "date": "2026-07-09T16:35:27Z",
+      "repo": "lfortran/lfortran",
+      "number": 12125,
+      "plus": 24,
+      "minus": 0
+    },
+    {
+      "id": "https://github.com/lfortran/lfortran/pull/12143",
+      "kind": "merged",
+      "title": "fix: namelist duplication in ASR symbol cloning",
+      "url": "https://github.com/lfortran/lfortran/pull/12143",
+      "date": "2026-07-09T15:49:18Z",
+      "repo": "lfortran/lfortran",
+      "number": 12143,
+      "plus": 50,
+      "minus": 0
+    },
+    {
+      "id": "https://github.com/lfortran/lfortran/pull/12152",
+      "kind": "open",
+      "title": "fix: Illegal inquire statement allowed",
+      "url": "https://github.com/lfortran/lfortran/pull/12152",
+      "date": "2026-07-09T09:26:02Z",
+      "repo": "lfortran/lfortran",
+      "number": 12152,
+      "plus": 26,
+      "minus": 2
+    },
+    {
+      "id": "https://github.com/lfortran/lfortran/pull/12134",
+      "kind": "open",
+      "title": "fix: ICE for transfer with merge inside character function",
+      "url": "https://github.com/lfortran/lfortran/pull/12134",
+      "date": "2026-07-08T09:37:33Z",
+      "repo": "lfortran/lfortran",
+      "number": 12134,
+      "plus": 34,
+      "minus": 10
+    },
+    {
+      "id": "https://github.com/lfortran/lfortran/pull/12133",
+      "kind": "open",
+      "title": "fix: ICE for internal read from character array section substring",
+      "url": "https://github.com/lfortran/lfortran/pull/12133",
+      "date": "2026-07-08T09:07:44Z",
+      "repo": "lfortran/lfortran",
+      "number": 12133,
+      "plus": 23,
+      "minus": 9
+    },
+    {
+      "id": "https://github.com/lfortran/lfortran/pull/12065",
+      "kind": "merged",
+      "title": "fix: print namelist statement not supported",
+      "url": "https://github.com/lfortran/lfortran/pull/12065",
+      "date": "2026-07-07T11:12:48Z",
+      "repo": "lfortran/lfortran",
+      "number": 12065,
+      "plus": 20,
+      "minus": 0
+    },
+    {
+      "id": "https://github.com/lfortran/lfortran/pull/12101",
+      "kind": "merged",
+      "title": "fix: ICE for eoshift on derived type array without boundary argument",
+      "url": "https://github.com/lfortran/lfortran/pull/12101",
+      "date": "2026-07-07T10:57:55Z",
+      "repo": "lfortran/lfortran",
+      "number": 12101,
+      "plus": 14,
+      "minus": 4
+    },
+    {
+      "id": "https://github.com/lfortran/lfortran/pull/12130",
+      "kind": "open",
+      "title": "ICE for invalid class is type name in select type",
+      "url": "https://github.com/lfortran/lfortran/pull/12130",
+      "date": "2026-07-07T10:44:52Z",
+      "repo": "lfortran/lfortran",
+      "number": 12130,
+      "plus": 32,
+      "minus": 18
+    },
+    {
+      "id": "https://github.com/lfortran/lfortran/pull/12128",
+      "kind": "open",
+      "title": "ICE for explicit shape array with nonconstant intrinsic boundInit bou",
+      "url": "https://github.com/lfortran/lfortran/pull/12128",
+      "date": "2026-07-07T10:29:37Z",
+      "repo": "lfortran/lfortran",
+      "number": 12128,
+      "plus": 18,
+      "minus": 16
+    },
+    {
+      "id": "https://github.com/lfortran/lfortran/pull/12099",
+      "kind": "merged",
+      "title": "fix: ICE for internal read from equivalenced character array",
+      "url": "https://github.com/lfortran/lfortran/pull/12099",
+      "date": "2026-07-06T14:04:37Z",
+      "repo": "lfortran/lfortran",
+      "number": 12099,
+      "plus": 48,
+      "minus": 11
+    },
+    {
+      "id": "https://github.com/lfortran/lfortran/pull/12103",
+      "kind": "merged",
+      "title": "fix: ICE when eoshift is instantiated twice with vector shift",
+      "url": "https://github.com/lfortran/lfortran/pull/12103",
+      "date": "2026-07-06T13:55:22Z",
+      "repo": "lfortran/lfortran",
+      "number": 12103,
+      "plus": 16,
+      "minus": 3
+    },
+    {
+      "id": "https://github.com/lfortran/lfortran/pull/12105",
+      "kind": "merged",
+      "title": "fix: LLVM verification failure for bind(c) character array dummy assignment from allocatable string",
+      "url": "https://github.com/lfortran/lfortran/pull/12105",
+      "date": "2026-07-06T13:46:44Z",
+      "repo": "lfortran/lfortran",
+      "number": 12105,
+      "plus": 52,
+      "minus": 5
+    },
+    {
+      "id": "https://github.com/lfortran/lfortran/pull/12072",
+      "kind": "open",
+      "title": "fix: ICE for char with negative value and kind=4",
+      "url": "https://github.com/lfortran/lfortran/pull/12072",
+      "date": "2026-07-02T08:16:29Z",
+      "repo": "lfortran/lfortran",
+      "number": 12072,
+      "plus": 26,
+      "minus": 6
+    },
+    {
+      "id": "https://github.com/lfortran/lfortran/pull/12063",
+      "kind": "open",
+      "title": "fix: ICE for same_type_as with polymorphic pointer and non-polymorphic target",
+      "url": "https://github.com/lfortran/lfortran/pull/12063",
+      "date": "2026-07-01T07:42:21Z",
+      "repo": "lfortran/lfortran",
+      "number": 12063,
+      "plus": 45,
+      "minus": 11
+    },
+    {
+      "id": "https://github.com/lfortran/lfortran/pull/12061",
+      "kind": "open",
+      "title": "fix: ICE for impure rand call inside do concurrent",
+      "url": "https://github.com/lfortran/lfortran/pull/12061",
+      "date": "2026-07-01T07:14:55Z",
+      "repo": "lfortran/lfortran",
+      "number": 12061,
+      "plus": 36,
+      "minus": 3
+    },
+    {
+      "id": "https://github.com/lfortran/lfortran/pull/12038",
+      "kind": "merged",
+      "title": "fixes: ICE in nested_vars when using module with nested function capturing character parameter",
+      "url": "https://github.com/lfortran/lfortran/pull/12038",
+      "date": "2026-06-30T13:24:58Z",
+      "repo": "lfortran/lfortran",
+      "number": 12038,
+      "plus": 51,
+      "minus": 1
+    },
+    {
+      "id": "https://github.com/lfortran/lfortran/pull/12012",
+      "kind": "merged",
+      "title": "fix: inquire recl with integer(8) causes llvm type mismatch",
+      "url": "https://github.com/lfortran/lfortran/pull/12012",
+      "date": "2026-06-29T10:47:18Z",
+      "repo": "lfortran/lfortran",
+      "number": 12012,
+      "plus": 28,
+      "minus": 2
+    },
+    {
+      "id": "https://github.com/lfortran/lfortran/pull/12024",
+      "kind": "merged",
+      "title": "feat: add support forall block with multiple body statements",
+      "url": "https://github.com/lfortran/lfortran/pull/12024",
+      "date": "2026-06-29T08:16:04Z",
+      "repo": "lfortran/lfortran",
+      "number": 12024,
+      "plus": 34,
+      "minus": 14
+    },
+    {
+      "id": "https://github.com/lfortran/lfortran/pull/12020",
+      "kind": "open",
+      "title": "fix: inquire with integer(8) unit causes llvm type mismatch",
+      "url": "https://github.com/lfortran/lfortran/pull/12020",
+      "date": "2026-06-27T09:57:38Z",
+      "repo": "lfortran/lfortran",
+      "number": 12020,
+      "plus": 17,
+      "minus": 0
+    },
+    {
+      "id": "https://github.com/lfortran/lfortran/pull/12018",
+      "kind": "open",
+      "title": "fix: Internal read into assumed shape array fails with LLVM type mismatch",
+      "url": "https://github.com/lfortran/lfortran/pull/12018",
+      "date": "2026-06-27T09:38:40Z",
+      "repo": "lfortran/lfortran",
+      "number": 12018,
+      "plus": 32,
+      "minus": 1
+    },
+    {
+      "id": "https://github.com/lfortran/lfortran/pull/11990",
+      "kind": "merged",
+      "title": "fix: ICE for statement function conflicting with function name",
+      "url": "https://github.com/lfortran/lfortran/pull/11990",
+      "date": "2026-06-26T07:51:10Z",
+      "repo": "lfortran/lfortran",
+      "number": 11990,
+      "plus": 29,
+      "minus": 9
+    },
+    {
+      "id": "https://github.com/lfortran/lfortran/pull/12004",
+      "kind": "open",
+      "title": "fix: ICE for namelist read in contained subroutine",
+      "url": "https://github.com/lfortran/lfortran/pull/12004",
+      "date": "2026-06-26T07:08:10Z",
+      "repo": "lfortran/lfortran",
+      "number": 12004,
+      "plus": 33,
+      "minus": 4
+    },
+    {
+      "id": "https://github.com/lfortran/lfortran/pull/11988",
+      "kind": "merged",
+      "title": "feat: add support for multiple namelist groups in a single NAMELIST statement",
+      "url": "https://github.com/lfortran/lfortran/pull/11988",
+      "date": "2026-06-25T18:03:23Z",
+      "repo": "lfortran/lfortran",
+      "number": 11988,
+      "plus": 209,
+      "minus": 123
+    },
+    {
+      "id": "https://github.com/lfortran/lfortran/pull/11992",
+      "kind": "open",
+      "title": "fix: ICE for pointer bounds remapping to null target",
+      "url": "https://github.com/lfortran/lfortran/pull/11992",
+      "date": "2026-06-25T08:49:59Z",
+      "repo": "lfortran/lfortran",
+      "number": 11992,
+      "plus": 21,
+      "minus": 2
+    },
+    {
+      "id": "https://github.com/lfortran/lfortran/pull/11946",
+      "kind": "merged",
+      "title": "fix: missing duplicate statement label error causes wrong goto behavior",
+      "url": "https://github.com/lfortran/lfortran/pull/11946",
+      "date": "2026-06-24T16:37:13Z",
+      "repo": "lfortran/lfortran",
+      "number": 11946,
+      "plus": 24,
+      "minus": 3
+    },
+    {
+      "id": "https://github.com/lfortran/lfortran/pull/11950",
+      "kind": "merged",
+      "title": "fixesL storage_size rejects assumed rank argument",
+      "url": "https://github.com/lfortran/lfortran/pull/11950",
+      "date": "2026-06-24T16:36:31Z",
+      "repo": "lfortran/lfortran",
+      "number": 11950,
+      "plus": 20,
+      "minus": 1
+    },
+    {
+      "id": "https://github.com/lfortran/lfortran/pull/11972",
+      "kind": "merged",
+      "title": "fix: ICE for printing kind 4 character variable",
+      "url": "https://github.com/lfortran/lfortran/pull/11972",
+      "date": "2026-06-24T16:25:58Z",
+      "repo": "lfortran/lfortran",
+      "number": 11972,
+      "plus": 16,
+      "minus": 2
+    },
+    {
+      "id": "https://github.com/lfortran/lfortran/pull/11970",
+      "kind": "merged",
+      "title": "fix: ICE for min with kind 4 character arguments",
+      "url": "https://github.com/lfortran/lfortran/pull/11970",
+      "date": "2026-06-24T14:07:50Z",
+      "repo": "lfortran/lfortran",
+      "number": 11970,
+      "plus": 21,
+      "minus": 6
+    },
+    {
+      "id": "https://github.com/lfortran/lfortran/pull/11964",
+      "kind": "open",
+      "title": "fix: ICE for internal read from equivalenced character array",
+      "url": "https://github.com/lfortran/lfortran/pull/11964",
+      "date": "2026-06-23T07:29:50Z",
+      "repo": "lfortran/lfortran",
+      "number": 11964,
+      "plus": 46,
+      "minus": 4
+    },
+    {
+      "id": "https://github.com/opixdown/CineCache/commit/fb419bc4cfa762523830c1da7995e02db8fbf88a",
+      "kind": "commit",
+      "title": "Update README.md",
+      "url": "https://github.com/opixdown/CineCache/commit/fb419bc4cfa762523830c1da7995e02db8fbf88a",
+      "date": "2026-04-17T00:39:41Z",
+      "repo": "opixdown/CineCache",
+      "plus": 17,
+      "minus": 76
+    },
+    {
+      "id": "https://github.com/opixdown/CineCache/commit/e8f4bce75e0a89f2805b34582ae24484ade4368d",
+      "kind": "commit",
+      "title": "Update README.md",
+      "url": "https://github.com/opixdown/CineCache/commit/e8f4bce75e0a89f2805b34582ae24484ade4368d",
+      "date": "2026-04-17T00:04:13Z",
+      "repo": "opixdown/CineCache",
+      "plus": 17,
+      "minus": 17
+    },
+    {
+      "id": "https://github.com/opixdown/CineCache/commit/bfd397a83387d1597d14ce4f1106585b6191cb45",
+      "kind": "commit",
+      "title": "Update README with enhanced formatting and details",
+      "url": "https://github.com/opixdown/CineCache/commit/bfd397a83387d1597d14ce4f1106585b6191cb45",
+      "date": "2026-04-16T23:58:39Z",
+      "repo": "opixdown/CineCache",
+      "plus": 118,
+      "minus": 113
+    },
+    {
+      "id": "https://github.com/opixdown/CineCache/commit/05781cebc9afdd3b4af0de5696db5e5280aa097d",
+      "kind": "commit",
+      "title": "Revise README for detailed project documentation",
+      "url": "https://github.com/opixdown/CineCache/commit/05781cebc9afdd3b4af0de5696db5e5280aa097d",
+      "date": "2026-04-16T23:53:02Z",
+      "repo": "opixdown/CineCache",
+      "plus": 0,
+      "minus": 0
+    }
+  ]
+}
