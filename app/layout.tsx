@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
 import { Footer } from "@/components/footer";
 import { Nav } from "@/components/nav";
+import { NoteBar } from "@/components/note-bar";
 import "./globals.css";
 
 const geistSans = Geist({ variable: "--font-geist-sans", subsets: ["latin"] });
@@ -31,11 +32,12 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
         <script dangerouslySetInnerHTML={{ __html: themeScript }} />
       </head>
       <body className="flex min-h-full flex-col font-sans">
-        <div className="mx-auto flex w-full max-w-[720px] flex-1 flex-col px-5 sm:px-6">
+        <div className="mx-auto flex w-full max-w-[720px] flex-1 flex-col px-5 pb-20 sm:px-6">
           <Nav />
           {children}
           <Footer />
         </div>
+        <NoteBar />
       </body>
     </html>
   );

@@ -73,6 +73,11 @@ body {
   border-radius: 3px;
 }
 
+/* The note bar's border lights up on focus, so its fields need no ring of their own. */
+.note-field:focus-visible {
+  outline: none;
+}
+
 [data-theme="dark"] .theme-moon,
 [data-theme="light"] .theme-sun {
   display: none;

@@ -291,7 +291,7 @@ export default async function HomePage() {
         </ul>
       </Section>
 
-      <Section number="08" title="Leave a note">
+      <Section number="08" title="Notes">
         <Comments />
       </Section>
 
